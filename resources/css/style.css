@@ -1,0 +1,18 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* burasi bir onceki dersten ornek */
+.show{
+    display: block;
+}
+.hide{
+    display: none;
+}
+
+/* body{
+     background:red ; 
+    background: rgb(177, 250, 137);
+    color: white;
+    transition: 1s all;
+} */
